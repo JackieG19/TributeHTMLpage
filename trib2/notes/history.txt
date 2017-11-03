@@ -1,0 +1,19 @@
+terminal history
+
+  
+   1  git init
+   2  git add trib2
+   3  git status
+   4  git remote add origin git@github.com:JackieG19/version.git
+   5  git commit -m "Version1.0"
+   6  git status 
+   7  git add index.html
+   8  git status
+   9  git commit
+  10  git status
+  11  mkdir notes
+  12  cd notes/
+  13  touch notes.txt
+  14  git commit -m “create Notes.txt”
+  14  git status
+  15  history
